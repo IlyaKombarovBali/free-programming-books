@@ -79,7 +79,7 @@
 * [Unix](#unix)
 
 
-### 0 - Language Agnostic
+### 0 - Language Agnostic тестово
 
 * [Введение в методы машинной обработки данных](https://mkurnosov.net/docs/dsa-book-2020.pdf) - Курносов М.Г. (PDF)
 * [Операционные системы](https://vseloved.github.io/pdf/os-ru.pdf) - Всеволод Дёмкин (PDF)
